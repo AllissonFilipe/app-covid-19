@@ -3,6 +3,7 @@ import RefreshIcon from '../../../assets/images/refresh.png';
 import { Card, Typography, Button, Select, MenuItem } from '../../../components';
 import COUNTRIES from '../../../commons/constants/countries';
 import { CardPanelContentStyled, ItemStyled } from './style';
+import './styleImage.css';
 
 const navigatorHasShare = navigator.share
 

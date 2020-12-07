@@ -8,27 +8,27 @@ const COUNTRIES = [
     {
         label: 'Alemanha',
         value: 'germany',
-        // flag: GermanyFlag
+        flag: GermanyFlag
     },
     {
         label: 'Brasil',
         value: 'brazil',
-        // flag: BrazilFlag
+        flag: BrazilFlag
     },
     {
         label: 'China',
         value: 'china',
-        // flag: ChinaFlag
+        flag: ChinaFlag
     },
     {
         label: 'Estados Unidos',
         value: 'usa',
-        // flag: UsaFlag
+        flag: UsaFlag
     },
     {
         label: 'Itália',
         value: 'italy',
-        // flag: ItalyFlag
+        flag: ItalyFlag
     }
 ]
 
